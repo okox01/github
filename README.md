@@ -17,3 +17,6 @@ u
 c
 k
 ```
+```
+print("Hallo World")
+```
