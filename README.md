@@ -9,8 +9,8 @@ _iam a stupid_
 __iam stupid__  
 ~~iam stupid~~
 <u>example</u>  
-## fuck  
-`fuck`
+## life like Algorithm
+`what a mess !! `
 ```
 Only
 Coding
