@@ -12,10 +12,11 @@ __iam stupid__
 ## fuck  
 `fuck`
 ```
-f
-u
-c
-k
+Only
+Coding
+Can
+Fix
+Me
 ```
 ```
 print("Hallo World")
